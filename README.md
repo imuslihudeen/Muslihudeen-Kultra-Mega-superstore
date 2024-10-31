@@ -16,4 +16,13 @@ Questions (KPIs)
 -	Which consumer customer was the most profitable one?
 -	Which customer returned items and what segment do they belong
 
+Dashboard interaction <a href= “https://github.com/imuslihudeen/Muslihudeen-Kultra-Mega-superstore/blob/main/Kultra%20superstore%20Dashboard.jpg”>View Dashboard</a>
 
+##Process
+-	Verify data for any missing values and outliers, and sort out the same
+-	Make sure data is consistent and clean with respect to data type, data format and value used
+-	Created pivot tables according to the questions asked
+-	Merge all pivot tables into one dashboard and apply slicer to make filtering easy.
+
+## Dashboard
+https://github.com/imuslihudeen/Muslihudeen-Kultra-Mega-superstore/blob/main/Kultra%20superstore%20Dashboard.jpg
