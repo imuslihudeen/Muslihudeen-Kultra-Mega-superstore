@@ -35,8 +35,8 @@ Bundling and Discount Offers: Offer special discounts for future purchases. For 
 Follow-up Engagement: Encourage feedback mechanism from these customers to understand why their spending is low. Follow-up communication through emails or calls can help retain their loyalty and identify potential up-sell or cross-sell opportunities.
 2. Evaluation of Shipping Costs Based on Order Priority
 Based on the dashboard information, it appears that Delivery Truck is used more frequently, which implies it is likely the default choice. Given that it's the most economical but slowest option, this may be appropriate for lower-priority orders. However, if KMS wants to optimize shipping costs based on Order Priority, here’s what could be improved.
-Appropriate Use of Express Air for High-Priority Orders: If Express Air is the fastest but most costly method, it should only be used for orders termed as high priority, where speed is crucial for customer satisfaction.
-Delivery Truck for Low-Priority Orders: This method is suitable for orders where delivery speed is not a primary concern. It saves costs but may impact customer satisfaction if used inappropriately for higher-priority orders.
+-Appropriate Use of Express Air for High-Priority Orders: If Express Air is the fastest but most costly method, it should only be used for orders termed as high priority, where speed is crucial for customer satisfaction.
+-Delivery Truck for Low-Priority Orders: This method is suitable for orders where delivery speed is not a primary concern. It saves costs but may impact customer satisfaction if used inappropriately for higher-priority orders.
 
 ##Conclusion
 KMS could benefit from a structured shipping policy that selects the shipping mode based on each order's priority. Proper alignment of shipping costs with order priorities can lead to better cost management and enhance customer satisfaction without unnecessary expense.
