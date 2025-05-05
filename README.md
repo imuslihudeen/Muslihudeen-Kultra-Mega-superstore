@@ -61,9 +61,9 @@ https://github.com/imuslihudeen/Muslihudeen-Kultra-Mega-superstore/blob/main/Kul
    
 -   Based on the dashboard information, it appears that the Delivery Truck is used more frequently, which implies it is likely the default choice. Given that it's the most economical but slowest option, this may be appropriate for lower-priority orders. However, if KMS wants to optimise shipping costs based on Order Priority, here’s what could be improved.
   
--Appropriate Use of Express Air for High-Priority Orders: If Express Air is the fastest but most costly method, it should only be used for orders termed as high priority, where speed is crucial for customer satisfaction.
+-   Appropriate Use of Express Air for High-Priority Orders: If Express Air is the fastest but most costly method, it should only be used for orders termed as high priority, where speed is crucial for customer satisfaction.
 
--Delivery Truck for Low-Priority Orders: This method is suitable for orders where delivery speed is not a primary concern. It saves costs but may impact customer satisfaction if used inappropriately for higher-priority orders.
+-   Delivery Truck for Low-Priority Orders: This method is suitable for orders where delivery speed is not a primary concern. It saves costs but may impact customer satisfaction if used inappropriately for higher-priority orders.
 
 ##Conclusion
 -   KMS could benefit from a structured shipping policy that selects the shipping mode based on each order's priority. Proper alignment of shipping costs with order priorities can lead to better cost management and enhance customer satisfaction without unnecessary expense.
