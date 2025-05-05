@@ -1,14 +1,29 @@
 # KMS Super store- Data Analysis (Interactive Dashboard creation using MS Excel
+
+## Table of Contents
+1. [Project Overview](#Project-Overview)  
+2. [Objectives](#objectives)  
+3. [Beneficiaries](#beneficiaries)  
+4. [Data Used](#data-used)  
+5. [Dashboard](#dashboard)  
+6. [Key Questions](#key-questions)  
+7. [Task 1: Data Overview](#task-1-data-overview)  
+8. [Task 2: Gender Distribution](#task-2-gender-distribution)  
+9. [Task 3: Descriptive Statistics](#task-3-descriptive-statistics)  
+10. [Task 4: Most Preferred Investment Avenue](#task-4-most-preferred-investment-avenue)  
+11. [Task 5: Reasons for Investment](#task-5-reasons-for-investment)  
+12. [Task 6: Saving Objectives](#task-6-saving-objectives)
+    
 # Project Objective
-The Business Manager has given you an Excel file containing Order data from 2009-2012 and he would like you to analyse and present your insights from the analysis to enable the business owner grow more sales
+The Business Manager has given you an Excel file containing Order data from 2009-2012, and he would like you to analyse and present your insights from the analysis to enable the business owner to grow more sales
 
 ##Dataset Used
 <a href= "https://github.com/imuslihudeen/Muslihudeen-Kultra-Mega-superstore/blob/main/KMS%20Superstore%20Data.xlsx"> Dataset</a>
 
 Questions (KPIs)
 -	Which product category had the highest sales?
--	What are the Top 3 and Bottom 3 Regions with regards to sales?
--	What was the total sales of appliances in Ontario?
+-	What are the Top 3 and Bottom 3 Regions with regard to sales?
+-	What were the total sales of appliances in Ontario?
 -	KMS incurred the most shipping cost using which shipping method?
 -	Who are the most valuable customers and what do they purchase?
 -	Which small business customer had the highest sales?
