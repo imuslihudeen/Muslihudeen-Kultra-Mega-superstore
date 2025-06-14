@@ -2,13 +2,12 @@
 
 ## Table of Contents
 1. [Project Overview](#Project-Overview)  
-2. [Objectives](#objectives)  
-3. [Beneficiaries](#beneficiaries)  
-4. [Data Used](#data-used)  
-5. [Dashboard](#dashboard)  
-6. [Key Questions](#key-questions)  
-7. [Task 1: Data Overview](#task-1-data-overview)  
-8. [Task 2: PIVOT TABLE](#task-2-pivot-table)  
+2. [Objectives](#objectives)   
+3. [Data Used](#data-used)  
+4. [Dashboard](#dashboard)  
+5. [Key Questions](#key-questions)  
+6. [Task 1: Data Overview](#task-1-data-overview)  
+7. [Task 2: PIVOT TABLE](#task-2-pivot-table)  
    
 
 ## Project Overview 
